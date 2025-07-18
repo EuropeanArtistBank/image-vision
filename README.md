@@ -2,6 +2,19 @@
 
 # European Artist Bank – Computer Vision PoC (Proof of Concept)
 
+
+
+---
+
+## 🔗 Access the Notebook
+
+Explore the full implementation here:
+👉 **[Computer Vision Proof of Concept – Jupyter Notebook](https://github.com/EuropeanArtistBank/image-vision/blob/main/Computer-Vison-Proof-of-concept.ipynb)**
+
+This notebook contains the complete code for model cataloging, image encoding, multi-model inference, result visualization, and summarization using hosted AI models within European infrastructure.
+
+
+
 ## Overview
 
 This project demonstrates a **Computer Vision Proof of Concept** using multiple advanced AI models for detailed **image classification**. The primary aim is to validate the applicability of vision AI in the cultural and creative sectors by performing model-based interpretation of visual objects.
